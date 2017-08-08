@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import Link from 'gatsby-link'
+import {Route, Link} from 'react-router-dom'
 import Helmet from 'react-helmet'
 
 import '../styles/main.scss'
@@ -19,26 +19,11 @@ const Header = () =>
     </div>
   </div>
 
-class NavigationItem extends React.Component {
-  constructor() {
-    super()
-    this.state = { active: this.props.active }
-  }
-
-  changePage = () => {
-    this.setState({active: true})
-  }
-
-  render() {
-    let className = "code-menu-item";
-    if (this.state.active) {
-      className += "is-active"
-    }
-    return (
-      <li className={className}><Link to={this.props.link} onClick={this.changePage}>{this.props.name}</Link></li>
-    )
-  }
-}
+const MenuLink = ({ label, to, activeOnlyWhenExact }) => (
+  <Route path={to} exact={activeOnlyWhenExact} children={({ match }) => (
+      <li className={match ? 'is-active' : ''}><Link to={to}>{label}</Link></li>
+  )}/>
+)
 
 const TemplateWrapper = ({ children }) =>
   <div>
@@ -52,11 +37,8 @@ const TemplateWrapper = ({ children }) =>
     <Header />
     <div className="flex-container align-center">
       <ul className="code-menu menu">
-        <li className="code-menu-item"><Link to="/" activeStyle={{
-        color: 'red'
-      }}
->Démarrer</Link></li>
-        <li className="code-menu-item"><Link to="page-2">About</Link></li>
+        <MenuLink to="/"  label="Démarrer" activeOnlyWhenExact={true} />
+        <MenuLink to="/page-2"  label="page-2" activeOnlyWhenExact={true} />
       </ul>
     </div>
     <div className="flex-container">
