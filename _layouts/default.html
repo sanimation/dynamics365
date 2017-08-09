@@ -1,14 +1,29 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {% include head.html %}
 
   <body>
-		{% include header.html %}
 
-		{{ content }}
-	  	
-	  	{% include footer.html %}
+    {% include header.html %}
+
+    <div class="container">
+
+      <nav>
+        <ul class="nav nav-pills nav-justified">
+          {% include pages_list.html %}
+        </ul>
+      </nav>
+
+      <main>
+        <div>
+          {{ content }}
+        </div>
+      </main>
+
+    </div>
+
+    {% include js.html %}
 
   </body>
 

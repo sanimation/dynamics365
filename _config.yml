@@ -13,20 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dynamics 365 FAQ
-email: your-email@example.com
+title: Dynamics 365 online FAQ
 description: > # this means to ignore newlines until "baseurl:"
-  Dynamics 365 FAQ.
+  Ce site référence les meilleurs ressoirces pour configurer et personnaliser
+  Dynamics 365 online.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  sanimation
 
 # Build settings
 markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-assets
+
+assets:
+  sources:
+    - _assets/css
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

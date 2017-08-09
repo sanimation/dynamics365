@@ -1,11 +1,4 @@
 _site
 .sass-cache
 .jekyll-metadata
-bower_components
-_builds
-_steps
-.bundle
-_projects
-node_modules
-npm-debug.log
-.DS_Store
+_assets/bower
