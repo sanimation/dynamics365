@@ -6,5 +6,16 @@ $jumbotron-bg: #002050;
 // container size
 $container-large-desktop: 960px;
 
+// pills
 $nav-link-padding: 8px 0px;
 $nav-pills-active-link-hover-bg: #0DA5B3;
+
+// blockquote
+blockquote {
+  margin-left: 2rem !important;
+  margin-right: 2rem !important;
+}
+
+.faq h2 {
+  color: red;
+}

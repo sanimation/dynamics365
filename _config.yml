@@ -23,10 +23,16 @@ github_username:  sanimation
 
 # Build settings
 markdown: kramdown
+permalink: pretty
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-assets
+
+collections:
+  admin:
+    output: true
+    permalink: /admin/:path
 
 assets:
   sources:
