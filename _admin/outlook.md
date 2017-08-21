@@ -19,14 +19,14 @@ configuration de la messagerie**.
 ## Corrélation d'email
 Accédez à **Paramètres > Configuration de la messagerie > Paramètre de configuration d'email**
 
-Vérifier que Utiliser un jeton de suivi est sélectionné
+Vérifier que **Utiliser un jeton de suivi** est sélectionné.
 
 ## Suivi de dossier
 Accédez à **Paramètres > Configuration de la messagerie > Paramètre de configuration d'email**
 
-Cocher Utiliser le suivi par dossier pour les dossiers Exchange
+Cocher **Utiliser le suivi par dossier** pour les dossiers Exchange.
 
-Dans Définir les options personnelles, cliquer sur Configurer les regles de suivi des dossiers
+Dans **Définir les options personnelles**, cliquer sur **Configurer les regles de suivi des dossiers**.
 
 ## Définir le profil par défaut pour les boîtes aux lettres
 1. Accédez à **Paramètres > Configuration de la messagerie > Boîtes aux lettres**.

@@ -42,13 +42,15 @@ DNS à votre serveur DNS.
 * Créer des équipes (**Paramètres > Sécurité > Equipes**).
 
 ## Configurer votre application mobile
-
+Installer l'application mobile Dynamics 365 sur votre téléphone. Il existe
+une version pour iPhone, Android et Windows phone.  
+Cf. le [Guide de l'utilisateur Dynamics 365 pour téléphones et tablettes](https://www.microsoft.com/fr-fr/dynamics/crm-customer-center/dynamics-365-for-phones-and-tablets-user-s-guide.aspx)
 
 ## Configurer votre messagerie
-[Utiliser outlook comme messagerie]({{ site.baseurl }}{% link _admin/outlook.md %})
+[Utiliser outlook comme messagerie]({{ site.baseurl }}{% link _admin/outlook.md %}).
 
-## Confugurer la gestion de documents avec Sharepoint
-[Utiliser sharepoint]({{ site.baseurl }}{% link _admin/sharepoint.md %})
+## Configurer la gestion de documents avec Sharepoint
+[Utiliser sharepoint]({{ site.baseurl }}{% link _admin/sharepoint.md %}).
 
 ## Configurer Skype (optionnel)
 
@@ -60,18 +62,25 @@ Voix sur IP avec le plan Office Entreprise E5 (installation d'un équipement d'i
 
 ## Configurer Yammer (optionnel)
 
-Yammer doit être activer dans Office 365
+Yammer doit être activé dans Office 365.
 
-Dans l'admin de Office 365, aller dans Tableau de bord, sélectionner services inclus, cliquer sur oui activer Yammer pour mon réseau. Vérifier votre domanine et cliquer sur Activer Yammer Entreprise.
+Dans l'administration de Office 365, aller dans **Tableau de bord**, sélectionner **services inclus**, cliquer sur **oui activer Yammer pour mon réseau**. Vérifier votre domaine et cliquer sur **Activer Yammer Entreprise**.
 
-Pour remplacer l'onglet publications par les publications Yammer
+Pour remplacer l'onglet publications par les publications Yammer:
+Dans **Paramètres > Administration > Configuration de Yammer**, cliquer sur
+**Continuer** puis sur **Autoriser Microsoft Dynamics CRM à se connecter à yammer**.
 
-Dans Paramètres > Administration > Configuration de Yammer, autoriser Microsoft Dynamics CRM à se connecter à yammer
+Dans **Paramètres > Configuration des flux**, spécifier les entité CRM qui sont
+activées pour une utilisation avec Yammer.
 
-Dans Paramètres > Configuration des flux, spécifier les entité CRM qui sont activées pour une utilisation avec Yammer.
-
-Dans Paramètres > Administration > Règles des flux d'activités, spécifier les éléments qui déclenchent des publications automatiques dans le fil d'actualités de Yammer.
+Dans **Paramètres > Administration > Règles des flux d'activités**, spécifier les
+éléments qui déclenchent des publications automatiques dans le fil d'actualités de Yammer.
 
 ## Importer vos données
+Utiliser l'Assistant Importation de données.  
+Dans **Paramètres > Gestion des données > Importations**, cliquer sur **Importer des données**
+pour lancer l'assistant.  
+Cf. [Importer des comptes, des prospects ou d'autres données](https://www.microsoft.com/fr-fr/dynamics/crm-customer-center/import-accounts-leads-or-other-data.aspx).
 
 ## Personnaliser votre système
+Vous pouvez personnaliser votre CRM en suivant ces [bonnes pratiques]({{ site.baseurl }}{% link _admin/customize-best-practices.md %}).

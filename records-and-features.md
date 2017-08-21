@@ -36,11 +36,3 @@ Sauvegarder. Le système sauvegarde automatiquement tous les enregistrements
 modifiés toutes les 30 secondes, ou quand vous changez d’écran.
 Si vous souhaitez sauvegarder quelque chose avant les 30 secondes, cliquez sur
 Sauvegarder en bas à droite de l’écran.
-
-## Est-ce que je peux attacher des documents à mes enregistrements?
-
-## Est-ce que je peux créer des modèles de documents?
-
-## Est-ce que je peux créer des modèles d'e-mail?
-
-## Quelle est la différence entre une entité et une activité?
