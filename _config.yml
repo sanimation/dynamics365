@@ -29,6 +29,8 @@ plugins:
   - jekyll-feed
   - jekyll-assets
 
+google_analytics: UA-105110578-1
+
 collections:
   admin:
     output: true
