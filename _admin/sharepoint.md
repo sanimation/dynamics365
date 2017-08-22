@@ -23,7 +23,7 @@ Dans sharepoint, utiliser le site de collections par défaut (team site).
 
 Créer une collection de sites.
 
-Dans le CRM, sous **Parametres>Gestion de document**:
+Dans Dynamics 365 Online, sous **Parametres > Gestion des documents**:
 
 Activer l’authentification sharepoint basée sur serveur.
 

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Bonnes pratiques pour faciliter l'utilisation de votre CRM
+title: Bonnes pratiques pour faciliter l'utilisation de votre Dynamics 365 Online
 ---
 
 ### Thème
 Créer un thème pour votre organisation.
 
 ### Navigation
-Cacher les zones de travail non utilisées.
+[Cacher les zones de travail non utilisées]({{ site.baseurl }}{% link _admin/hiding-sitemap-components.md %}).
 
 ### Tableaux de bord
 Créer ou personnaliser un tableau de bord pour chaque zone de travail.
@@ -36,4 +36,4 @@ Prospect
 Montrer le contact et le compte existant de demander des infos supplémentaires et utiliser les formalraies rapides avec des business rule pour les cacher.
 
 ### Configurer la recherche globale
-http:\/\/www.crmsoftwareblog.com\/2015\/03\/customizing-global-search-microsoft-dynamics-crm-2015\/
+[Sélectionner les entités et les champs de recherche](https://community.dynamics.com/crm/b/xrm/archive/2017/08/12/how-to-set-up-global-search-in-microsoft-dynamics-365).

@@ -29,7 +29,7 @@ Créer les rôles de sécurité à partir de rôles de sécurité existants.
 
 ## Les solutions
 ### La solution système
-Elle représente les composants définis par Microsoft Dynamics CRM, sans
+Elle représente les composants définis par Microsoft Dynamics 365 Online, sans
 personnalisation, càd l’application par défaut.
 
 ### Les solutions gérées
@@ -40,4 +40,5 @@ entre elles si elles sont proprement configurées.
 
 ### Les solutions non gérées
 Les solutions non gérées peuvent être vues comme le code source des personnalisations
-de votre CRM. On crée les solutions gérées en créant et exportant des solutions non gérées.
+de votre Dynamics 365 Online. On crée les solutions gérées en créant et exportant
+des solutions non gérées.

@@ -1,6 +1,7 @@
 ---
 layout: faq
 title: Administration
+page-title: Dynamics 365 Online Administration
 ---
 
 ## Comment configurer un nouvel environnement?

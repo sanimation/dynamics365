@@ -7,11 +7,16 @@ title: Dynamics 365 FAQ
 ---
 
 > **Conseil:** 🤔 Vous pouvez utiliser n'importe quel navigateur mais Internet
-explorer reste le navigateur recommandé.
+Explorer reste le navigateur recommandé.
 
-> **Conseil:** 🤔 Pour vous connecter, sélectionnez l’application CRM dans votre
+> **Conseil:** 🤔 Pour vous connecter, sélectionnez l’application Dynamics 365 dans votre
 portail Office 365 <https://portal.office.com> ou accédez directement à votre crm
 à l'adresse https://\<organization\>.crm4.dynamics.com.
+
+
+Vous avez acheté un abonnement à Microsoft Dynamics 365 Online.
+[Suivez ces étapes pour configurer votre nouvel environnement.]({{ site.baseurl }}{% link _admin/startup.md %})  
+Personnaliser ensuite votre CRM en suivant ces [bonnes pratiques]({{ site.baseurl }}{% link _admin/customize-best-practices.md %}).
 
 * [Enregistrements et fonctionnalités]({{ site.baseurl }}{% link records-and-features.md %})
 * [Outlook]({{ site.baseurl }}{% link outlook.md %})
@@ -21,5 +26,4 @@ portail Office 365 <https://portal.office.com> ou accédez directement à votre 
 * [Administration]({{ site.baseurl }}{% link admin.md %})
 * [Performance]({{ site.baseurl }}{% link performance.md %})
 * [Personnalisation]({{ site.baseurl }}{% link customize.md %})
-* [Autres sujets]({{ site.baseurl }}{% link additional-topics.md %})
 * [Ressources additionnelles]({{ site.baseurl }}{% link resources.md %})

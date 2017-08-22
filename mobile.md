@@ -1,6 +1,7 @@
 ---
 layout: faq
 title: Mobile
+page-title: Dynamics 365 Online sur Mobile
 ---
 
 ## Est-ce que je peux accéder à Dynamics 365 sur mon téléphone ou ma tablette?

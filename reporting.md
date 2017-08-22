@@ -1,6 +1,7 @@
 ---
 layout: faq
 title: Reporting
+page-title: Dynamics 365 Online Reporting
 ---
 
 ## Quelles options de reporting et d'analyse de données existent dans Dynamics 365?

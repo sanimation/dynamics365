@@ -9,7 +9,7 @@ Pour plus d'information cf. [Onboard Your Organization on Microsoft Dynamics CRM
 Créer un rôle de sécurité en copiant un rôle existant.
 
 ## Ajouter des utilisateurs et leur assigner un rôle de sécurité
-Chaque utilisateur doit avoir un rôle de sécurité pour accéder au CRM online.
+Chaque utilisateur doit avoir un rôle de sécurité pour accéder à Dynamics 365 Online.
 
 1. Cliquer sur **Paramètres > Sécurité > Utilsateurs**.
 2. Dans la liste, sélectionner l'utilisateur ou les utilisateurs à qui vous voulez

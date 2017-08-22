@@ -54,13 +54,13 @@ commandes (...) > Approuver l’adresse de messagerie**.
 
 Lorsque vous testez la configuration de messagerie, une tâche asynchrone s'exécute
 en arrière-plan. La réalisation du test peut prendre quelques minutes. Microsoft
-Dynamics CRM teste la configuration de la messagerie de toutes les boîtes aux
+Dynamics 365 Online teste la configuration de la messagerie de toutes les boîtes aux
 lettres associées au profil Microsoft Exchange Online. Pour les boîtes aux lettres
 configurées avec la synchronisation côté serveur pour la synchronisation des
 rendez-vous, des tâches et des contacts, le programme vérifie également si ces
 boîtes aux lettres sont configurées correctement.
 
-## Déployer l'application CRM pour Outlook (version légère)
+## Déployer l'application Dynamics 365 pour Outlook (version légère)
 1. Accédez à **Paramètres > Application CRM pour Outlook**.
 2. Dans l'écran **Mise en route de l'application CRM pour Outlook**, sous
 **Ajouter pour les utilisateurs éligibles** (vous devez peut-être cliquer sur

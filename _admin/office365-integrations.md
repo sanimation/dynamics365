@@ -19,7 +19,7 @@ stockées dans sharepoint.
 * [Analysez vos données avec des modèles Excel](https://www.microsoft.com/fr-fr/dynamics/crm-customer-center/analyze-your-data-with-excel-templates.aspx)
 
 ## Power BI
-Utiliser PowerBI pour faciliter l'analyse des données de votre CRM.
+Utiliser PowerBI pour faciliter l'analyse des données de Dynamics 365 Online.
 Cf. [Utiliser Power BI avec Microsoft Dynamics 365](https://technet.microsoft.com/fr-fr/library/dn708055.aspx)
 
 ## Sharepoint

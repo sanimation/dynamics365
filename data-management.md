@@ -1,9 +1,10 @@
 ---
 layout: faq
 title: Gestion des données
+page-title: Dynamics 365 Online Gestion des données 
 ---
 
-## Comment importer mes données dans mon CRM?
+## Comment importer mes données dans Dynamics 365 Online?
 Vous pouvez utiliser l'Assistant Importation de données.  
 Allez dans **Paramètres > Gestion des données > Importations**, puis cliquez sur
 **Importer des données**.  
