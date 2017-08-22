@@ -28,6 +28,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-assets
+  - jekyll-sitemap
 
 google_analytics: UA-105110578-1
 
