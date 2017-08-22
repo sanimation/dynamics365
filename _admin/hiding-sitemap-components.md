@@ -3,7 +3,7 @@ layout: page
 title: Cacher les zones de travail non utilisées en attachant des privilèges
 ---
 
-Cf. l'article complet [Hiding SiteMap Components based on User Profile](https://dipankarbhattacharya.com/2014/05/06/hiding-sitemap-components-based-on-user-profile/)
+Cf. l'article complet [Hiding SiteMap Components based on User Profile](https://dipankarbhattacharya.com/2014/05/06/hiding-sitemap-components-based-on-user-profile/).  
 Avant de modifier le sitemap, ajouter le plan de site à une solution.
 Dans la solution, sélectionner **Extensions client** dans la liste **Composants**.
 Sélectionner **Ajouter > Plan de site**.
@@ -22,4 +22,5 @@ Pour chaque rôle de sécurité, configurer seulement les droits d'accès à l'e
 créée précédemment.
 
 Modifier le SiteMap: Modifier le privilège de chaque sous-zone de zone avec
-l'entité spécifigue. Par exemple dans les sous-zones de Sales Area (SFA), aller sur Propriétés>Avancée>Privilèges et sélectionner l'entité esoft_salessitemap.
+l'entité spécifigue. Par exemple dans les sous-zones de Sales Area (SFA), aller
+sur **Propriétés > Avancée > Privilèges** et sélectionner l'entité **new_salessitemap**.

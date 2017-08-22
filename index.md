@@ -23,6 +23,7 @@ Personnaliser ensuite votre CRM en suivant ces [bonnes pratiques]({{ site.baseur
 * [Mobile]({{ site.baseurl }}{% link mobile.md %})
 * [Gestion des données]({{ site.baseurl }}{% link data-management.md %})
 * [Reporting]({{ site.baseurl }}{% link reporting.md %})
+* [Automatisation]({{ site.baseurl }}{% link workflows.md %})
 * [Administration]({{ site.baseurl }}{% link admin.md %})
 * [Performance]({{ site.baseurl }}{% link performance.md %})
 * [Personnalisation]({{ site.baseurl }}{% link customize.md %})

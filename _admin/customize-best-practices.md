@@ -26,14 +26,11 @@ Supprimer les graphiques non utilisés.
 ### Barre de commandes
 Changer l'ordre des boutons.
 
-### Formualires
+### Formulaires
 * Augmenter la taille des labels.
 * Bien choisir les labels.
 * Si le nom de votre formulaire ne correspond pas au nom de votre entité, le nom
 de l'entité est répété dans le titre (nom de l'entité: nom du formulaire).
-
-Prospect
-Montrer le contact et le compte existant de demander des infos supplémentaires et utiliser les formalraies rapides avec des business rule pour les cacher.
 
 ### Configurer la recherche globale
 [Sélectionner les entités et les champs de recherche](https://community.dynamics.com/crm/b/xrm/archive/2017/08/12/how-to-set-up-global-search-in-microsoft-dynamics-365).
