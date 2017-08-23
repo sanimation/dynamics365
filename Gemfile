@@ -27,6 +27,7 @@ gem 'jekyll-sitemap'
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "jekyll-assets"
+   gem 'algoliasearch-jekyll', '~> 0.8.2'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

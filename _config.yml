@@ -29,6 +29,7 @@ plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-sitemap
+  - algoliasearch-jekyll
 
 google_analytics: UA-105110578-1
 
@@ -40,6 +41,14 @@ collections:
 assets:
   sources:
     - _assets/css
+
+algolia:
+  application_id: 'RP4RQNTDK3'
+  index_name: 'DYNAMICS_FAQ'
+  read_only_api_key: 'bb3dd3e4e93c445b55ffc5c8e6210f38'
+  excluded_files:
+    - 404.html
+    - index.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
