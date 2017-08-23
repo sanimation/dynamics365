@@ -13,7 +13,6 @@ Explorer reste le navigateur recommandé.
 portail Office 365 <https://portal.office.com> ou accédez directement à votre crm
 à l'adresse https://\<organization\>.crm4.dynamics.com.
 
-
 Vous avez acheté un abonnement à Microsoft Dynamics 365 Online.
 [Suivez ces étapes pour configurer votre nouvel environnement.]({{ site.baseurl }}{% link _admin/startup.md %})  
 Personnaliser ensuite votre CRM en suivant ces [bonnes pratiques]({{ site.baseurl }}{% link _admin/customize-best-practices.md %}).
