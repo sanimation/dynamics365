@@ -39,8 +39,12 @@ collections:
     permalink: /admin/:path
 
 assets:
+  assets:
+    - "*.png"
   sources:
     - _assets/css
+    - _assets/img
+    - _assets/js
 
 algolia:
   application_id: 'RP4RQNTDK3'
