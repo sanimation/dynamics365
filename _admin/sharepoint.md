@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Configurer Sharepoint
+page-title: Dynamics 365 & Sharepoint
 ---
 
 ## Intégration côté serveur

@@ -18,7 +18,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Ce site référence les meilleurs ressources pour configurer et personnaliser
   Dynamics 365 online.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.dynamicsfaq.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.dynamicsfaq.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sanimation
 
 # Build settings

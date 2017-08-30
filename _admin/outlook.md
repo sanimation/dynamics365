@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Configurer Outlook
+page-title: Dynamics 365 & Outlook
 ---
 
 ## Configurer le traitement par défaut et la synchronisation de messagerie

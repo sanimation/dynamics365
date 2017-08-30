@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Développeur
+page-title: Dynamics 365 Développeur
 ---
 
 ## Meilleures pratiques

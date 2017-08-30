@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Configurer un nouvel environnement
+page-title: Dynamics 365 Configurer un nouvel environnement
 ---
 
 Pour plus d'information cf. [Onboard Your Organization on Microsoft Dynamics CRM Online](https://mbs.microsoft.com/customersource/northamerica/CRM/learning/documentation/MovingForwardCRMOnline)

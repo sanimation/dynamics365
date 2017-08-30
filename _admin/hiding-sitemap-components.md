@@ -11,7 +11,8 @@ Créer 4 entités (sans sélectionner d'options et avec propriété **organisati
 * SalesSiteMap
 * MarketingSiteMap
 * ServicesSiteMap
-* SettingsSiteMap
+* SettingsSiteMap  
+
 Créer les rôles de sécurité suivants:
 * Sales Section Accessor
 * Marketing Section Accessor

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Office 365 & Dynamics 365
+page-title: Dynamics 365 & Office 365
 ---
 
 ## Outlook

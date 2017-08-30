@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bonnes pratiques pour faciliter l'utilisation de votre Dynamics 365 Online
+page-title: Dynamics 365 Personnalisation: Bonnes pratiques
 ---
 
 ### Thème
