@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cacher les zones de travail non utilisées en attachant des privilèges
+page-title: Dynamics 365 Cacher les zones de travail
 ---
 
 Cf. l'article complet [Hiding SiteMap Components based on User Profile](https://dipankarbhattacharya.com/2014/05/06/hiding-sitemap-components-based-on-user-profile/).  

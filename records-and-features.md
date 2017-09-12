@@ -20,6 +20,16 @@ fonctionnalités, données ou champs selon le rôle que vous avez.
 Si vous ne pouvez pas réaliser une action ou si certaines données sont en lecture
 seule, vérifier avec votre administrateur que vous avez les autorisations nécessaires.
 
+## Je ne peux pas modifier un champ. Pourquoi?
+Si il y a une clef à côté du champ, c'est que la sécurité au niveau de ce champ a
+été activée.  
+Si il y a un cadenas à côté du champ, 2 cas possibles:
+* Le champ est en lecture seule dans le formulaire.
+* Le champ appartient à une entité que vous ne pouvez pas lire ou modifier ou fait référence
+à une entité que vous ne pouvez pas lire ou modifier (champ recherche).
+Vérifier avec votre administrateur que vous avez les autorisations nécessaires au
+niveau de votre rôle de sécurité.
+
 ## Est-ce que je peux accéder à Dynamics 365 Online en mode Offline?
 Vous pouvez utiliser l'application mobile Dynamics 365 pour accéder à vos données
 sans être connecté à internet.

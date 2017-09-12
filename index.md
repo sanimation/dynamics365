@@ -1,13 +1,11 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: Dynamics 365 FAQ
 ---
 
-> **Conseil:** 🤔 Vous pouvez utiliser n'importe quel navigateur mais Internet
-Explorer reste le navigateur recommandé.
+> **Conseil:** 🤔 Pour naviguer sur Dynamics 365 Online, vous pouvez utiliser
+la plupart des derbières versions des navigateurs. [Vérifier quels sont les naviguateurs
+pris en charge](https://technet.microsoft.com/fr-fr/library/dn531055.aspx).
 
 > **Conseil:** 🤔 Pour vous connecter, sélectionnez l’application Dynamics 365 dans votre
 portail Office 365 <https://portal.office.com> ou accédez directement à votre crm
