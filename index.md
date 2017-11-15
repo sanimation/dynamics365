@@ -4,7 +4,7 @@ title: Dynamics 365 FAQ
 ---
 
 > **Conseil:** 🤔 Pour naviguer sur Dynamics 365 Online, vous pouvez utiliser
-la plupart des derbières versions des navigateurs. [Vérifier quels sont les naviguateurs
+la plupart des dernières versions des navigateurs. [Vérifier quels sont les naviguateurs
 pris en charge](https://technet.microsoft.com/fr-fr/library/dn531055.aspx).
 
 > **Conseil:** 🤔 Pour vous connecter, sélectionnez l’application Dynamics 365 dans votre

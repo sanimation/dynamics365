@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 _assets/bower
 .asset-cache
+Gemfile.lock
