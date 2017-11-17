@@ -4,6 +4,17 @@
 @import "font-awesome-sprockets";
 @import "font-awesome";
 
+.container {
+  min-height:68vh;
+}
+
+.main-content {
+  padding-top: 20px;
+  @media (min-width: $screen-md-min) {
+    padding-top: 40px;
+  }
+}
+
 .blog-footer {
   border-top: 1px solid #e6e6e6;
   margin-top: 40px;
